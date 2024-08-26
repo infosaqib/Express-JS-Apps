@@ -1,0 +1,6 @@
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/infosaqib/portfolio
+[submodule "Shopping-store"]
+	path = Shopping-store
+	url = https://github.com/infosaqib/Shopping-store
