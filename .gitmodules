@@ -4,3 +4,6 @@
 [submodule "Shopping-store"]
 	path = Shopping-store
 	url = https://github.com/infosaqib/Shopping-store
+[submodule "cuberto"]
+	path = cuberto
+	url = https://github.com/infosaqib/cuberto
